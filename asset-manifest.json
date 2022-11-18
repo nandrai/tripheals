@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.816f3305.css",
+    "main.js": "/static/js/main.0fce321c.js",
+    "static/media/services.jpg": "/static/media/services.34f98b57d3cdfce9d08f.jpg",
+    "static/media/img2.JPEG": "/static/media/img2.f9040e028c88814ad7f2.JPEG",
+    "static/media/img1.JPEG": "/static/media/img1.064635ad4c8dbc908e0b.JPEG",
+    "static/media/dripsoberoi.jpg": "/static/media/dripsoberoi.7e8ec41ef04bd8ddeda2.jpg",
+    "static/media/Dr-Z-S-Meharwal.jpg": "/static/media/Dr-Z-S-Meharwal.42177bad7584567cdc6a.jpg",
+    "static/media/logo.png": "/static/media/logo.ce16ff43bf129a2ca0d2.png",
+    "static/media/Dr. Sandeep Vaishya.jpg": "/static/media/Dr. Sandeep Vaishya.909ed5132679e7815b96.jpg",
+    "index.html": "/index.html",
+    "main.816f3305.css.map": "/static/css/main.816f3305.css.map",
+    "main.0fce321c.js.map": "/static/js/main.0fce321c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.816f3305.css",
+    "static/js/main.0fce321c.js"
+  ]
+}
